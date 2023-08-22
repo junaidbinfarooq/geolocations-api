@@ -7,4 +7,12 @@
 /public/bundles/
 /var/
 /vendor/
+/.php-cs-fixer.cache
+/.idea/
+/public/geolocations/
 ###< symfony/framework-bundle ###
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
